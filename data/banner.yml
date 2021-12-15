@@ -1,0 +1,11 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "F 7 Technology"
+subtitle: |
+  A Technology Delivery Company.
+content : |
+  Through collaboration, facilitation, coaching and technical support we help teams and companies deliver software effectively and sustainably. <br/>
+   <br/>
+   <a target="_blank" href="mailto:behraam@f7technology.com">Get in touch</a>  for details on our consulting, coaching or training offerings.
+image : "images/newbanner.jpg"
+
