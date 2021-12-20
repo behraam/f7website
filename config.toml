@@ -2,7 +2,7 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
-title = "Hugo Story"
+title = "F7 Technology"
 theme = "hugo-story"
 
 
@@ -28,5 +28,5 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 #  twitter = "https://twitter.com/caressofsteel_"
   email = "behraam@f7technology.com"
 #  instagram = "https://instagram.com"
-#  linkedin = "https://linkedin.com"
+  linkedin = "https://www.linkedin.com/in/behraamwahid/"
 #  telegram = "https://telegram.org"
